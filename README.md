@@ -20,6 +20,7 @@
 
 ## Command Line Tools
 
+* [anthropics/claude-code](https://github.com/anthropics/claude-code): coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language
 * [aider](https://aider.chat/): AI pair programming in your terminal
 
 ## Contribute
