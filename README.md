@@ -18,6 +18,10 @@
 * [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
 * [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
 
+## Plugins and Extensions
+
+* [Cline](https://cline.bot/):an AI assistant that can use your CLI aNd Editor, for VS Code.
+
 ## Command Line Tools
 
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language
