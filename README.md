@@ -9,7 +9,6 @@
 ## Browser-based Tools
 
 * [🔥] [Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps.
-  * [Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
 * [🔥] [Lovable](https://lovable.dev/): "idea to app in seconds. Lovable is your superhuman full stack engineer."
 * [🔥] [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Replit](https://replit.com/): "simply describe your idea above and let the Agent build it for you"
@@ -28,6 +27,9 @@
 
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language
 * [aider](https://aider.chat/): AI pair programming in your terminal
+
+## News
+* [bolt.new on X: "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app / X](https://x.com/boltdotnew/status/1900197121829331158)
 
 ## Contribute
 
