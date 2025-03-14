@@ -29,6 +29,7 @@
 ## Plugins and Extensions
 
 * [Cline](https://cline.bot/): an AI assistant that can use your CLI aNd Editor, for VS Code.
+* [avante.nvim](https://github.com/yetone/avante.nvim): a Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
 
 ## Command Line Tools
 
