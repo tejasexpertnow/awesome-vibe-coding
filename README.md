@@ -12,6 +12,13 @@
 * [🔥] [Lovable](https://lovable.dev/): "idea to app in seconds. Lovable is your superhuman full stack engineer."
 * [🔥] [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Replit](https://replit.com/): "simply describe your idea above and let the Agent build it for you"
+* [Create](https://www.create.xyz/): "turn your words into sites, tools, apps and products"
+* [Trickle AI](https://www.trickle.so/): "build stunning websites, AI apps, and forms with ease"
+* [Tempo](https://www.tempo.new/): "build React apps 10x faster with AI"
+* [Softgen](https://softgen.ai/): "describe your vision, give instructions, and build full-stack web apps"
+* [Lazy AI](https://getlazy.ai/): "build reliable business apps with prompts"
+* [HeyBoss](https://www.heyboss.xyz/): "build app & sites in minutes"
+* [Creatr](https://getcreatr.com/): "create and deploy web apps and landing pages in seconds"
 
 ## IDEs and Code Editors
 
