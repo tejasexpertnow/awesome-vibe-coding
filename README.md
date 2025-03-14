@@ -32,18 +32,18 @@
 
 ## IDEs and Code Editors
 
-- [Windsurf Editor by Codeium](https://codeium.com/windsurf) - agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
+- [Windsurf Editor by Codeium](https://codeium.com/windsurf) - Agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
 - 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
-- [Zed](https://zed.dev/) - code editor designed for high-performance collaboration with humans and AI.
+- [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 
 ## Plugins and Extensions
 
-- [Cline](https://cline.bot/) - an AI assistant that can use your CLI aNd Editor, for VS Code.
-- [avante.nvim](https://github.com/yetone/avante.nvim) - a Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
+- [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
+- [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
 
 ## Command Line Tools
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
 
 ## News and Social Media
