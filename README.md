@@ -8,15 +8,15 @@
 
 ## Browser-based Tools
 
-* [🔥][Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps.
-* [🔥][Lovable](https://lovable.dev/): "idea to app in seconds. Lovable is your superhuman full stack engineer."
-* [🔥][v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+* [🔥] [Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps.
+* [🔥] [Lovable](https://lovable.dev/): "idea to app in seconds. Lovable is your superhuman full stack engineer."
+* [🔥] [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Replit](https://replit.com/): "simply describe your idea above and let the Agent build it for you"
 
 ## IDEs and Code Editors
 
 * [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
-* [🔥][Cursor](https://www.cursor.com/): the AI Code Editor, "the best way to code with AI"
+* [🔥] [Cursor](https://www.cursor.com/): the AI Code Editor, "the best way to code with AI"
 * [Zed](https://zed.dev/): code editor designed for high-performance collaboration with humans and AI
 
 ## Plugins and Extensions
