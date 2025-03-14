@@ -1,6 +1,15 @@
-# Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Vibe Coding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of vibe coding references, collaborating with AI to write code.
+
+## Contents <!-- omit in toc -->
+
+- [About the concept](#about-the-concept)
+- [Browser-based Tools](#browser-based-tools)
+- [IDEs and Code Editors](#ides-and-code-editors)
+- [Plugins and Extensions](#plugins-and-extensions)
+- [Command Line Tools](#command-line-tools)
+- [News and Social Media](#news-and-social-media)
 
 ## About the concept
 
@@ -44,6 +53,6 @@
 * [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 * [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 
-## Contribute
+## Contribute <!-- omit in toc -->
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
