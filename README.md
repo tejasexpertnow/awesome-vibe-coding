@@ -9,6 +9,7 @@
 ## Browser-based Tools
 
 * [🔥] [Bolt.new](https://bolt.new/): prompt, run, edit, and deploy full-stack web and mobile apps.
+  * [Figma to Bolt](https://x.com/boltdotnew/status/1900197121829331158)
 * [🔥] [Lovable](https://lovable.dev/): "idea to app in seconds. Lovable is your superhuman full stack engineer."
 * [🔥] [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
 * [Replit](https://replit.com/): "simply describe your idea above and let the Agent build it for you"
