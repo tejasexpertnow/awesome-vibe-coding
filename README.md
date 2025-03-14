@@ -28,11 +28,13 @@
 * [anthropics/claude-code](https://github.com/anthropics/claude-code): coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language
 * [aider](https://aider.chat/): AI pair programming in your terminal
 
-## News
+## News and Social Media
+
 * [bolt.new on X: "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
 * [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 * [Vibe Coding: Where Everyone Can ‘Speak’ Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 * [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
+* [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 
 ## Contribute
 
