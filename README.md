@@ -10,6 +10,7 @@
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Command Line Tools](#command-line-tools)
 - [News and Social Media](#news-and-social-media)
+- [Contribute](#contribute)
 
 ## About the concept
 
@@ -32,7 +33,7 @@
 ## IDEs and Code Editors
 
 - [Windsurf Editor by Codeium](https://codeium.com/windsurf) - agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic".
-- 🔥 [Cursor](https://www.cursor.com/) - the AI Code Editor, "the best way to code with AI".
+- 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
 - [Zed](https://zed.dev/) - code editor designed for high-performance collaboration with humans and AI.
 
 ## Plugins and Extensions
@@ -53,6 +54,6 @@
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
 
-## Contribute <!-- omit in toc -->
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
