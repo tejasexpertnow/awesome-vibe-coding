@@ -36,6 +36,9 @@
 - 🔥 [Cursor](https://www.cursor.com/) - AI Code Editor, "the best way to code with AI".
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 
+## Desktop Apps
+- [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
+
 ## Plugins and Extensions
 
 - [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
@@ -47,6 +50,7 @@
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
+- [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 
 ## News and Social Media
