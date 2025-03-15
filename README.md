@@ -42,13 +42,16 @@
 ## Plugins and Extensions
 
 - [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
+- [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of cline with extra features/enhancements
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
+- [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with lots of code blocks in them.
 
 ## Command Line Tools
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
 - [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
+- [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 
 ## News and Social Media
 
