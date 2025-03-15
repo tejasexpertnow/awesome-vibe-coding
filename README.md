@@ -45,6 +45,7 @@
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
+- [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 
 ## News and Social Media
 
