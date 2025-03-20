@@ -55,12 +55,14 @@
 
 ## News and Social Media
 
+> This section displays items in reverse chronological order, with the most recent entries appearing at the top.
+
+- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
 - [Vibe Coding - Where Everyone Can ‘Speak’ Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
-- [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 
 ## Contribute
 
