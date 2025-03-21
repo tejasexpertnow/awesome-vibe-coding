@@ -9,6 +9,7 @@
 - [IDEs and Code Editors](#ides-and-code-editors)
 - [Plugins and Extensions](#plugins-and-extensions)
 - [Command Line Tools](#command-line-tools)
+- [Documentation for AI Coding](#documentation-for-ai-coding)
 - [News and Social Media](#news-and-social-media)
 - [Contribute](#contribute)
 
@@ -52,6 +53,10 @@
 - [aider](https://aider.chat/) - AI pair programming in your terminal.
 - [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
+
+## Documentation for AI Coding
+
+- [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
 
 ## News and Social Media
 
