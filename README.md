@@ -2,7 +2,7 @@
 
 > A curated list of vibe coding references, collaborating with AI to write code.
 
-English | [한국어](./README.kr.md)
+English | [한국어](./README-KR.md)
 
 ## Contents <!-- omit in toc -->
 
