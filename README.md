@@ -47,7 +47,7 @@ English | [한국어](./README-KR.md)
 - [Cline](https://cline.bot/) - AI assistant that can use your CLI aNd Editor, for VS Code.
 - [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of cline with extra features/enhancements
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
-- [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with lots of code blocks in them.
+- [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with many code blocks.
 
 ## Command Line Tools
 
@@ -62,8 +62,9 @@ English | [한국어](./README-KR.md)
 
 ## News and Social Media
 
-> This section displays items in reverse chronological order, with the most recent entries appearing at the top.
+> This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [The "vibe coding" mind virus explained… by Fireship - YouTube](https://www.youtube.com/watch?v=Tw18-4U7mts)
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [bolt.new on X - "Introducing Figma to Bolt Go from Figma to pixel-perfect full stack app - X](https://x.com/boltdotnew/status/1900197121829331158)
 - [Will the future of software development run on vibes? - Ars Technica](https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/)
