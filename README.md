@@ -49,6 +49,7 @@ English | [한국어](./README-KR.md)
 - [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of cline with extra features/enhancements
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with many code blocks.
+- [Augment Code](https://www.augmentcode.com/) - A AI coding assistant built for professional software engineers and large codebases.
 
 ## Command Line Tools
 
