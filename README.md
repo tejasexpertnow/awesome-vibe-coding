@@ -19,7 +19,7 @@ English | [한국어](./README-KR.md)
 
 - [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383) - "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. (.) I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works".
 
-## Browser-based Tools[
+## Browser-based Tools
 
 - 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
@@ -33,9 +33,6 @@ English | [한국어](./README-KR.md)
 - [HeyBoss](https://www.heyboss.xyz/) - "Build app & sites in minutes".
 - [Creatr](https://getcreatr.com/) - "Create and deploy web apps and landing pages in seconds".
 - [Rork](https://rork.app/) - "Build any mobile app, fast".
-
-## Python-based Tools
-- [CodeSelect](https://github.com/maynetee/codeselect) - tool that helps to efficiently communicate project source code to AIs
 
 ## IDEs and Code Editors
 
@@ -61,6 +58,7 @@ English | [한국어](./README-KR.md)
 - [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework
+- [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 
 ## Documentation for AI Coding
 
