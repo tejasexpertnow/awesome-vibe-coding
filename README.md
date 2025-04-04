@@ -58,6 +58,7 @@ English | [한국어](./README-KR.md)
 - [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework
+- [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 
 ## Documentation for AI Coding
 
@@ -75,6 +76,7 @@ English | [한국어](./README-KR.md)
 - [Vibe Coding - Where Everyone Can ‘Speak’ Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 - [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 - [/r/vibecoding](https://www.reddit.com/r/vibecoding/)
+- [/r/ChatGPTCoding](https://www.reddit.com/r/ChatGPTCoding/)
 
 ## Contribute
 
