@@ -41,7 +41,12 @@ English | [한국어](./README-KR.md)
 - [Zed](https://zed.dev/) - Code editor designed for high-performance collaboration with humans and AI.
 
 ## Desktop Apps
+
 - [codename goose](https://block.github.io/goose/) - Local, on-machine AI Agent that allows you to use any LLM and add any MCP servers as extensions
+
+## Mobile Apps
+
+- [VibeCode](https://www.vibecodeapp.com/) - The app that builds apps.
 
 ## Plugins and Extensions
 
@@ -49,7 +54,7 @@ English | [한국어](./README-KR.md)
 - [Roo Code](https://github.com/RooVetGit/Roo-Code) - Fork of cline with extra features/enhancements
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Neovim plugin designed to emulate the behavior of the Cursor AI IDE. It provides AI-driven code suggestions and allows you to apply recommendations directly to your source files with minimal effort.
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with many code blocks.
-- [Augment Code](https://www.augmentcode.com/) - A AI coding assistant built for professional software engineers and large codebases.
+- [Augment Code](https://www.augmentcode.com/) - An AI coding assistant built for professional software engineers and large codebases.
 
 ## Command Line Tools
 
