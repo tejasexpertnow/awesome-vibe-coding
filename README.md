@@ -67,6 +67,7 @@ English | [한국어](./README-KR.md)
 - [MyCoder.ai](https://github.com/drivecore/mycoder) - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - A standalone coding agent built on LangGraph's agent-based task execution framework
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
+- [openai/codex](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal
 
 ## Documentation for AI Coding
 
