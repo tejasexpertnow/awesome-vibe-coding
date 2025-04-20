@@ -54,6 +54,7 @@ English | [한국어](./README-KR.md)
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts with many code blocks.
 - [Augment Code](https://www.augmentcode.com/) - An AI coding assistant built for professional software engineers and large codebases.
 - [continuedev/continue](https://github.com/continuedev/continue): Build, share, and use custom AI code assistants with our open-source IDE extensions and library of models, prompts, rules, and docs.
+- [GitHub Copilot](https://github.com/features/copilot) - An AI designed to help you coding faster in Visual Studio Code. It offers code completion, chats with the AI models and an agent mode for agentic coding
 
 ## Command Line Tools
 
