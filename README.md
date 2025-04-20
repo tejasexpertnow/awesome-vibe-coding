@@ -33,7 +33,7 @@ English | [한국어](./README-KR.md)
 - [HeyBoss](https://www.heyboss.xyz/) - "Build app & sites in minutes".
 - [Creatr](https://getcreatr.com/) - "Create and deploy web apps and landing pages in seconds".
 - [Rork](https://rork.app/) - "Build any mobile app, fast".
-- 🔥 [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
+- [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 
 ## IDEs and Code Editors
