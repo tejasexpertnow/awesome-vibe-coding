@@ -40,7 +40,6 @@
 - [Zed](https://zed.dev/) - 인간과 AI 간 고성능 협업을 위한 코드 에디터.
 
 ## 모바일 앱
-
 - [VibeCode](https://www.vibecodeapp.com/) - 앱을 만들어주는 앱.
 
 ## 플러그인 및 확장 기능
@@ -54,7 +53,6 @@
 - [GitHub Copilot](https://github.com/features/copilot) - Visual Studio Code용 AI 코딩 어시스턴트. 코드 완성, AI와의 채팅, 에이전트 모드 등을 지원.
 
 ## 명령행 도구
-
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - 자연어를 통해 코드베이스 이해, 작업 자동화, 코드 설명 및 git 관리 가능.
 - [aider](https://aider.chat/) - 터미널에서 AI 페어 프로그래밍 지원.
 - [codename goose](https://block.github.io/goose/) - 로컬 AI 에이전트로, 다양한 LLM과 MCP 서버 확장 지원.
@@ -64,7 +62,6 @@
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI에서 제작한 경량 코딩 에이전트.
 
 ## AI 코딩 문서화
-
 - [CodeGuide](https://www.codeguide.dev/) - AI 코딩 프로젝트를 위한 상세 문서 생성 도구.
 
 ## 뉴스 및 소셜미디어
