@@ -67,6 +67,11 @@ English | [한국어](./README-KR.md)
 - [CodeSelect](https://github.com/maynetee/codeselect) - A Python-based command-line tool that efficiently communicates project source code to AIs.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal
 
+## Task Management for AI Coding
+
+- [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
+- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+
 ## Documentation for AI Coding
 
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
