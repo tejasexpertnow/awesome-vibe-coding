@@ -80,6 +80,7 @@ English | [한국어](./README-KR.md)
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [Vibe coding MenuGen | karpathy](https://karpathy.bearblog.dev/vibe-coding-menugen/)
 - [Two publishers and three authors fail to understand what “vibe coding” means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
 - [Vibe Coding 101 with Replit - DeepLearning.AI](https://www.deeplearning.ai/short-courses/vibe-coding-101-with-replit/)
