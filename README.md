@@ -25,6 +25,7 @@ English | [한국어](./README-KR.md)
 - 🔥 [Bolt.new](https://bolt.new/) - Prompt, run, edit, and deploy full-stack web and mobile apps.
 - 🔥 [Lovable](https://lovable.dev/) - "Idea to app in seconds. Lovable is your superhuman full stack engineer".
 - 🔥 [v0 by Vercel](https://v0.dev/chat) - Assistant to build NextJS frontend.
+- 🔥 [CHAI.new by Langbase](https://chai.new) - Prompt to vibe code any AI agent and deploy (agent, app, api)
 - [Replit](https://replit.com/) - "Simply describe your idea above and let the Agent build it for you".
 - [Create](https://www.create.xyz/) - "Turn your words into sites, tools, apps, and products".
 - [Trickle AI](https://www.trickle.so/) - "Build stunning websites, AI apps, and forms with ease".
