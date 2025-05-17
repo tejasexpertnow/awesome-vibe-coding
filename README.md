@@ -59,6 +59,9 @@ English | [한국어](./README-KR.md)
 - [continuedev/continue](https://github.com/continuedev/continue): Build, share, and use custom AI code assistants with our open-source IDE extensions and library of models, prompts, rules, and docs.
 - [GitHub Copilot](https://github.com/features/copilot) - An AI designed to help you coding faster in Visual Studio Code. It offers code completion, chats with the AI models and an agent mode for agentic coding
 
+## Local Apps
+- [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
+
 ## Command Line Tools
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Coding agent that understands your codebase, automates tasks, explains code, and manages git, all via natural language.
