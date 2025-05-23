@@ -85,6 +85,7 @@ English | [한국어](./README-KR.md)
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [The State of Vibe Coding Tools (May 2025) | LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf/?trackingId=iJSsdxE4R9OECPT43FtBww%3D%3D)
 - [Vibe coding MenuGen | karpathy](https://karpathy.bearblog.dev/vibe-coding-menugen/)
 - [Two publishers and three authors fail to understand what “vibe coding” means](https://simonwillison.net/2025/May/1/not-vibe-coding/)
 - [Not all AI-assisted programming is vibe coding (but vibe coding rocks)](https://simonwillison.net/2025/Mar/19/vibe-coding/)
