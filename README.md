@@ -85,6 +85,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [What is vibe coding? A computer scientist explains what it means to have AI write computer code − and what risks that can entail](https://theconversation.com/what-is-vibe-coding-a-computer-scientist-explains-what-it-means-to-have-ai-write-computer-code-and-what-risks-that-can-entail-257172)
 - [Peer Programming with LLMs, For Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
 - 🔥 [The Way of Code | Rick Rubin](https://www.thewayofcode.com/)
 - [The State of Vibe Coding Tools (May 2025) | LinkedIn](https://www.linkedin.com/pulse/state-vibe-coding-tools-may-2025-nufar-gaspar-x1znf/?trackingId=iJSsdxE4R9OECPT43FtBww%3D%3D)
