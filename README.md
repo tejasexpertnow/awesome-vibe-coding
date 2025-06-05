@@ -85,6 +85,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 > This section displays items in reverse chronological order, with the most recent entries at the top.
 
+- [The Prompt Engineering Playbook for Programmers](https://addyo.substack.com/p/the-prompt-engineering-playbook-for)
 - [What is vibe coding? A computer scientist explains what it means to have AI write computer code − and what risks that can entail](https://theconversation.com/what-is-vibe-coding-a-computer-scientist-explains-what-it-means-to-have-ai-write-computer-code-and-what-risks-that-can-entail-257172)
 - [Peer Programming with LLMs, For Senior+ Engineers](https://pmbanugo.me/blog/peer-programming-with-llms)
 - 🔥 [The Way of Code | Rick Rubin](https://www.thewayofcode.com/)
