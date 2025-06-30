@@ -39,7 +39,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Firebase Studio](https://studio.firebase.google.com/) - Google's agentic cloud-based development environment that helps build and ship production-quality full-stack AI apps.
 - [Napkins.dev](https://www.napkins.dev/) - Screenshot to code
 - [HeroUI Chat](https://heroui.chat/) - Generate beautiful apps regardless of your design experience.
-- [Rocket.new](https://www.rocket.new/): "Build Web & Mobile Apps 10x Faster Without Code".
+- [Rocket.new](https://www.rocket.new/) - "Build Web & Mobile Apps 10x Faster Without Code".
 
 ## IDEs and Code Editors
 
@@ -60,6 +60,8 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [Augment Code](https://www.augmentcode.com/) - An AI coding assistant built for professional software engineers and large codebases.
 - [continuedev/continue](https://github.com/continuedev/continue): Build, share, and use custom AI code assistants with our open-source IDE extensions and library of models, prompts, rules, and docs.
 - [GitHub Copilot](https://github.com/features/copilot) - An AI designed to help you coding faster in Visual Studio Code. It offers code completion, chats with the AI models and an agent mode for agentic coding
+- [Amazon Q Developer – AWS](https://aws.amazon.com/q/developer) - Amazon's Generative AI Assistant for Software Development.
+- [Superdesign.dev](https://www.superdesign.dev/) - Open Source Design Agent.
 
 ## Local Apps
 - [Dyad](https://www.dyad.sh/) - Free, local, open-source AI app builder
