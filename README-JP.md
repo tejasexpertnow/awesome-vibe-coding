@@ -74,6 +74,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangGraphのエージェントベースタスク実行フレームワーク上に構築されたスタンドアロンコーディングエージェント
 - [CodeSelect](https://github.com/maynetee/codeselect) - プロジェクトソースコードをAIに効率的に伝達するPythonベースのコマンドラインツール。
 - [OpenAI Codex CLI](https://github.com/openai/codex) - ターミナルで動作するOpenAIの軽量コーディングエージェント
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google製のオープンソースAIエージェントで、Geminiのパワーを直接ターミナルにもたらします。
 
 ## AIコーディングタスク管理
 

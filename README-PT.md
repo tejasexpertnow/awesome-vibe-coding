@@ -74,6 +74,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - Um agente de codificação independente construído no framework de execução de tarefas baseado em agentes do LangGraph.
 - [CodeSelect](https://github.com/maynetee/codeselect) - Uma ferramenta de linha de comando baseada em Python que comunica eficientemente o código-fonte do projeto para IAs.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - Agente de codificação leve da OpenAI que roda no terminal.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - é um agente de IA de código aberto do Google que leva o poder do Gemini diretamente para o seu terminal.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 
