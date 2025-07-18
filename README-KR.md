@@ -61,6 +61,7 @@
 - [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangGraph 기반 에이전트형 작업 실행 프레임워크를 사용하는 독립형 코딩 에이전트.
 - [CodeSelect](https://github.com/maynetee/codeselect) - 프로젝트 소스코드를 효율적으로 AI에 전달하는 Python 기반 CLI 도구.
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI에서 제작한 경량 코딩 에이전트.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 구글의 오픈소스 AI 에이전트로, Gemini의 강력한 기능을 터미널에서 바로 사용할 수 있게 해줍니다.
 
 ## AI 코딩 문서화
 - [CodeGuide](https://www.codeguide.dev/) - AI 코딩 프로젝트를 위한 상세 문서 생성 도구.
