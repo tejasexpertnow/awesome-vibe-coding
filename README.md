@@ -78,6 +78,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in the terminal
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent from Google that brings the power of Gemini directly into your terminal.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - "qwen-code is a coding agent that lives in digital world".
+- [opencode](https://opencode.ai/) - "AI coding agent built for the terminal".
 
 ## Task Management for AI Coding
 
