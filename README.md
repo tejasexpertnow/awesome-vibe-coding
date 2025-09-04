@@ -89,6 +89,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 ## Documentation for AI Coding
 
 - [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
+- [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents.
 
 ## News and Social Media
 
